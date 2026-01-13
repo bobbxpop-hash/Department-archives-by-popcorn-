@@ -1,0 +1,7 @@
+{
+  "name": "Copy of COSIT Archives",
+  "description": "An academic platform for COSIT students to access department archives, notes, and take AI-generated tests.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
